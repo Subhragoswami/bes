@@ -1,0 +1,4 @@
+rootProject.name = 'vendor-service'
+include 'vendor-base-service'
+
+
